@@ -218,6 +218,10 @@ h6,
   background: #000;
 }
 
+.testimonials-slider{
+  color: white;
+}
+
 .testimonials-slider .swiper-pagination {
   margin-top: -60px;
   position: relative;
@@ -231,7 +235,7 @@ h6,
 }
 
 .testimonials-slider .swiper-pagination .swiper-pagination-bullet-active {
-  background-color: rgba(13, 30, 45, 0.6);
+  background-color: rgb(255, 255, 255);
 }
 
 .sticky-content {
