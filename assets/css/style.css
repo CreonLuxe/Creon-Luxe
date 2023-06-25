@@ -25,6 +25,13 @@ a:hover {
 
 .navbar-brand{
   font-family: 'Russo One', sans-serif;
+  color: #000;
+}
+
+.cr-hero{
+  font-size: 30px;
+  font-family: 'Russo One', sans-serif;
+  color: #000;
 }
 
 
@@ -352,7 +359,7 @@ h6,
 --------------------------------------------------------------*/
 /* Custom Navmenu */
 .custom-navmenu {
-  background: #0d1e2d;
+  background: #ececec;
 }
 
 .custom-navmenu .custom-menu,
